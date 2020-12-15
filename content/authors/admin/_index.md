@@ -1,7 +1,7 @@
 ---
 title: Yash Khandelwal
 role: Student
-avatar_filename: ""
+avatar_filename: img_1427.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -29,7 +29,7 @@ education:
     - course: BTech in Chemical Engineering
       institution: Indian Institute of Technology Kharagpur
       year: ""
-email: "yashkhandelwal.iitkgp@gmail.com"
+email: yashkhandelwal.iitkgp@gmail.com
 superuser: true
 highlight_name: false
 ---
