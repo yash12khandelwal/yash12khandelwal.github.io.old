@@ -29,17 +29,7 @@ experience:
     date_start: '2020-05-04'
     date_end: '2020-08-07'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        The Wadhwani Institute for Artificial Intelligence (Wadhwani AI) is an independent, nonprofit research institute a1nd global hub, developing AI solutions for social good.
+
+        I was working on the Smartphone-based Anthropometry for Neonatals project where the objective of my project was to leverage use of multiple frames and camera geometry to reconstruct baby 3D meshes with accurate shapes to the correct scale. 
 ---
