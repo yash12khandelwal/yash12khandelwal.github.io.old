@@ -5,7 +5,9 @@ avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - ComputerVision
+  - Computer Vision (2D & 3D)
+  - Deep Learning
+  - MultiModality
 social:
   - icon: twitter
     icon_pack: fab
@@ -27,7 +29,7 @@ education:
     - course: BTech in Chemical Engineering
       institution: Indian Institute of Technology Kharagpur
       year: ""
-email: ""
+email: "yashkhandelwal.iitkgp@gmail.com"
 superuser: true
 highlight_name: false
 ---
