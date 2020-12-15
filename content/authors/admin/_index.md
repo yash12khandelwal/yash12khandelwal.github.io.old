@@ -27,15 +27,9 @@ organizations:
     url: http://iitkgp.ac.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BTech in Chemical Engineering
+      institution: Indian Institute of Technology Kharagpur
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
