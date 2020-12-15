@@ -7,9 +7,6 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - ComputerVision
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: yashkhandelwal.iitkgp@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/yash_kh12
@@ -21,7 +18,7 @@ social:
     link: https://github.com/yash12khandelwal
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/yash12khandelwal
+    link: https://www.linkedin.com/in/yash12khandelwal/
 organizations:
   - name: IIT Kharagpur
     url: http://iitkgp.ac.in/
