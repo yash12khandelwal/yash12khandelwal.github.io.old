@@ -1,6 +1,6 @@
 ---
 widget: contact
-widget_id: RECENT-POSTS
+widget_id: contact
 headless: true
 weight: 130
 title: Contact
@@ -17,3 +17,4 @@ content:
 design:
   columns: "2"
 ---
+I can't understand why contact is not getting updated???
