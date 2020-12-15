@@ -1,6 +1,6 @@
 ---
 title: Yash Khandelwal
-role: Student at IIT Kharagpur
+role: Student
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
