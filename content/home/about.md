@@ -4,7 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 20
 title: Biography
-active: false
+active: true
 author: admin
 ---
 Hi this is yash
