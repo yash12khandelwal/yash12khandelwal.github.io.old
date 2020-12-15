@@ -1,7 +1,7 @@
 ---
 title: Yash Khandelwal
 role: Student at IIT Kharagpur
-avatar_filename: img_1427.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -15,7 +15,7 @@ social:
     link: https://twitter.com/yash_kh12
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=emA3NKsAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
     link: https://github.com/yash12khandelwal
