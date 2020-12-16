@@ -41,7 +41,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2019 International Conference on Image and Video Processing, and Artificial Intelligence*
-publication_short: In *IVPAI*
+publication_short: In *IVPAI 2019*
 
 abstract: In the outdoor environment, robot perception is a challenging task encompassing several layers of abstractions like lane detection, object detection and avoidance, and way-point navigation. Intelligent Ground Vehicles are becoming popular and having an efficient perception stack is quintessential to its scaling for different tasks. Several issues like illumination variance, shadows, occlusions, etc. cause researchers to adopt computationally heavy approaches for improving generalization. We present a novel, real-time approach for combined lane detection, obstacle detection, and way-point navigation using features from a 2D-LiDAR and camera. A robust curve fitting algorithm has been implemented, adhering to the minimization of computation. The overall processing pipeline has been tested and validated to work well in outdoor conditions.
 
