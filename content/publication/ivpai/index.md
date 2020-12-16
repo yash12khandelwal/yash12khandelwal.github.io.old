@@ -6,16 +6,25 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Apoorve Singhal
+- Vibhakar Mohta
+- Arvind Jha
+- Deepank Agrawal
+- Shreyas Kowshik
+- Siddhant Agarwal
+- Shrey Shrivastava
+- Vaibhav Lodhi
+- Debashish Chakravarty
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2019-11-27"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-27"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,13 +33,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International conference on Image, Video Processing and Artificial Intelligence*
+publication: In *2019 International Conference on Image and Video Processing, and Artificial Intelligence*
 publication_short: In *IVPAI*
 
 abstract: In the outdoor environment, robot perception is a challenging task encompassing several layers of abstractions like lane detection, object detection and avoidance, and way-point navigation. Intelligent Ground Vehicles are becoming popular and having an efficient perception stack is quintessential to its scaling for different tasks. Several issues like illumination variance, shadows, occlusions, etc. cause researchers to adopt computationally heavy approaches for improving generalization. We present a novel, real-time approach for combined lane detection, obstacle detection, and way-point navigation using features from a 2D-LiDAR and camera. A robust curve fitting algorithm has been implemented, adhering to the minimization of computation. The overall processing pipeline has been tested and validated to work well in outdoor conditions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ""
 
 tags: [Image Processing, Lane Detection, Computer Vision, Autonomous Driving]
 
@@ -73,13 +82,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
