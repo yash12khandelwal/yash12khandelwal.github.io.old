@@ -1,7 +1,7 @@
 ---
 title: Yash Khandelwal
 role: Student
-avatar_filename: img_1427.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
