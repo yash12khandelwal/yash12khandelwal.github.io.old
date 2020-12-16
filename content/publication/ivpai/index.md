@@ -19,6 +19,13 @@ authors:
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2019-11-27"
 doi: ""
